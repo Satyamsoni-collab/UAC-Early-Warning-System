@@ -1,5 +1,7 @@
 # 🛡️ UAC Early Warning System (Predictive Forecasting)
 
+🌐 Live Demo: https://uac-early-warning-system-aafymefjynpec9ympafffq.streamlit.app/
+
 Hi everyone! 👋 Welcome to my machine learning project.
 
 I built this end-to-end forecasting pipeline and interactive dashboard to solve a real-world problem: helping government stakeholders (like HHS and CBP) manage care facilities for Unaccompanied Children (UAC).
